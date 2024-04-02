@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikaTieko
+- 👋 Hi, I’m Miriam Yamamoto 
 - 👀 I’m interested in expand my knowledge
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
